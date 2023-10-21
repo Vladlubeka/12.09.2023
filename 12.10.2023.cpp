@@ -1,9 +1,4 @@
-﻿// ConsoleApplication61.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
-
 #include <iostream>
-#include <cstdlib>
-#include <ctime>
 using namespace std;
 
 class Figure {
@@ -49,3 +44,4 @@ int main() {
 
     return 0;
 }
+
